@@ -1,0 +1,55 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "  HTML, CSS, Tailwind-CSS , JavaScript, React-js , Redux "
+    },
+    
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Node.js, Express.js, MySQL, MongoDB , REST APIs, Authentication & Authorization "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Deployment and Version Control",
+      "description": " Vercel, Render, Git, Git-Hub "
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Data Structures and Algorithms (DSA)",
+      "description": " C, C++, Python, Javascript"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "The CodeX",
+      "description": "A full-stack educational platform that allows users to access online courses, quizzes, and tutorials. The project was designed to enhance learning experiences for students by providing structured learning content.",
+      "description1" : "Tech Stack : HTML,CSS,React.js,Node.js,Express.js,MongoDB,JWT,Tailwind CSS",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "YAATRA",
+      "description": "A platform mimicking Airbnb's features, allowing users to browse listings, book properties, and host their own listings. This project focused on creating a user-friendly, scalable platform with real-time booking functionalities.",
+      "description1": "Tech Stack : HTML,CSS,EJS(Embedded JavaScript),Node.js,Express.js,MongoDB,JWT,Tailwind CSS",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "",
+      "description1": "",
+      "link": "View In Github"
+    }
+  ]
+}
